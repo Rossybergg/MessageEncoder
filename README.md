@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=u19tdcVOszA
 
 ## Preview:
 
-![alt text](https://github.com/Rossybergg/MessageEncoder/blob/master/images/preview.png "Message Encoder Preview")
+![alt text](https://github.com/Rossybergg/MessageEncoder/blob/master/images/preview_update.png "Message Encoder Preview")
 
 ## Setup:
 
